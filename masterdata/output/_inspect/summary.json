@@ -1,0 +1,3348 @@
+[
+  {
+    "file": "D:\\KANTOR\\DIGITALARSIP\\ESPPD\\APPS-ESPPD\\masterdata\\output\\ST.pdf",
+    "image": "D:\\KANTOR\\DIGITALARSIP\\ESPPD\\APPS-ESPPD\\masterdata\\output\\_inspect\\ST.png",
+    "page_rect": [
+      0.0,
+      0.0,
+      612.0,
+      1008.0
+    ],
+    "fonts": [
+      {
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "count": 45
+      },
+      {
+        "font": "CIDFont+F5",
+        "size": 11.05,
+        "count": 4
+      },
+      {
+        "font": "CIDFont+F4",
+        "size": 14.05,
+        "count": 2
+      },
+      {
+        "font": "CIDFont+F5",
+        "size": 12.01,
+        "count": 1
+      },
+      {
+        "font": "CIDFont+F5",
+        "size": 15.97,
+        "count": 1
+      },
+      {
+        "font": "CIDFont+F6",
+        "size": 9.97,
+        "count": 1
+      }
+    ],
+    "spans": [
+      {
+        "text": "KOMISI PEMILIHAN UMUM",
+        "font": "CIDFont+F4",
+        "size": 14.05,
+        "bbox": [
+          229.68,
+          105.59,
+          400.94,
+          122.53
+        ]
+      },
+      {
+        "text": "KOTA DUMAI",
+        "font": "CIDFont+F4",
+        "size": 14.05,
+        "bbox": [
+          272.04,
+          122.51,
+          358.72,
+          139.45
+        ]
+      },
+      {
+        "text": "SURAT TUGAS",
+        "font": "CIDFont+F5",
+        "size": 15.97,
+        "bbox": [
+          255.36,
+          166.75,
+          375.48,
+          184.57
+        ]
+      },
+      {
+        "text": "NOMOR :  07/RT.02.1-ST/1472/1/2026",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          209.04,
+          184.97,
+          420.67,
+          198.37
+        ]
+      },
+      {
+        "text": "Menimbang  :    a. Beredasarkan Surat Sekretaris KPU Provinsi Riau tanggal 19 Mei 2026",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          70.92,
+          204.53,
+          558.86,
+          217.93
+        ]
+      },
+      {
+        "text": "perihal Persetujuan Izin Perjalanan Dinas",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          184.32,
+          218.33,
+          404.64,
+          231.73
+        ]
+      },
+      {
+        "text": ";",
+        "font": "CIDFont+F6",
+        "size": 9.97,
+        "bbox": [
+          404.64,
+          220.18,
+          409.99,
+          231.3
+        ]
+      },
+      {
+        "text": "b. Bahwa untuk sebagaimana di maksud huruf a perlu di tunjuk Kadiv",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          170.1,
+          237.89,
+          558.89,
+          251.29
+        ]
+      },
+      {
+        "text": "Teknis Penyelenggara Pemilu dan Hukum mengikuti Acara Tersebut",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          184.32,
+          251.69,
+          558.75,
+          265.09
+        ]
+      },
+      {
+        "text": "dengan Surat Tugas.",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          184.32,
+          265.49,
+          296.54,
+          278.89
+        ]
+      },
+      {
+        "text": "Dasar",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          70.92,
+          285.05,
+          106.36,
+          298.45
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          141.82,
+          285.05,
+          155.09,
+          298.45
+        ]
+      },
+      {
+        "text": "1.  Peraturan Menteri Keu. RI Nomor 07/PMK.05/2008 Ttg Perjalanan",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          170.13,
+          285.05,
+          558.82,
+          298.45
+        ]
+      },
+      {
+        "text": "Dinas Jabatan Dalam Negeri Bagi Pejabat Negara, PNS dan Pegawai",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          184.32,
+          298.85,
+          558.82,
+          312.25
+        ]
+      },
+      {
+        "text": "Tidak Tetap.",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          184.32,
+          312.65,
+          254.4,
+          326.05
+        ]
+      },
+      {
+        "text": "2. Perdirjen Perbendaharaan Nomor PER-21/PB/2008 Ttg Petunjuk",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          170.1,
+          332.09,
+          558.92,
+          345.49
+        ]
+      },
+      {
+        "text": "Pelaksanaan Perjalanan Dinas Dalam Negeri bagi Pejabat Negara,",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          184.32,
+          345.89,
+          558.75,
+          359.29
+        ]
+      },
+      {
+        "text": "PNS dan Pegawai Tidak Tetap.",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          184.32,
+          359.69,
+          355.13,
+          373.09
+        ]
+      },
+      {
+        "text": "3. Perdirjen Perbendaharaan Nomor PER-47/PB/2009 Ttg Petunjuk",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          170.1,
+          379.25,
+          558.92,
+          392.65
+        ]
+      },
+      {
+        "text": "Pelaksanaan",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          184.32,
+          393.05,
+          257.1,
+          406.45
+        ]
+      },
+      {
+        "text": "Penatausahaan",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          275.51,
+          393.05,
+          362.9,
+          406.45
+        ]
+      },
+      {
+        "text": "dan",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          381.31,
+          393.05,
+          404.59,
+          406.45
+        ]
+      },
+      {
+        "text": "Penyusunan",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          423.0,
+          393.05,
+          493.19,
+          406.45
+        ]
+      },
+      {
+        "text": "Laporan",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          511.47,
+          393.05,
+          558.8,
+          406.45
+        ]
+      },
+      {
+        "text": "Pertanggungjawaban",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          184.32,
+          406.85,
+          301.12,
+          420.25
+        ]
+      },
+      {
+        "text": "Bendahara",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          327.22,
+          406.85,
+          389.31,
+          420.25
+        ]
+      },
+      {
+        "text": "Kementerian",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          415.28,
+          406.85,
+          486.7,
+          420.25
+        ]
+      },
+      {
+        "text": "Negara/",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          512.91,
+          406.85,
+          558.77,
+          420.25
+        ]
+      },
+      {
+        "text": "Lembaga/Kantor/Satuan Kerja.",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          184.32,
+          420.65,
+          352.43,
+          434.05
+        ]
+      },
+      {
+        "text": "4. Perdirjen Perbendaharaan Nomor PER-11/PB/2011 Ttg Mekanisme",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          170.1,
+          440.21,
+          558.81,
+          453.61
+        ]
+      },
+      {
+        "text": "Pelaksanan Pembayaran Atas Beban Anggaran Pendapatan dan",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          184.32,
+          454.01,
+          558.83,
+          467.41
+        ]
+      },
+      {
+        "text": "Belanja Negara.",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          184.32,
+          467.81,
+          273.69,
+          481.21
+        ]
+      },
+      {
+        "text": "Memberi Tugas",
+        "font": "CIDFont+F5",
+        "size": 12.01,
+        "bbox": [
+          269.04,
+          496.61,
+          360.5,
+          510.01
+        ]
+      },
+      {
+        "text": "Kepada          :",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          70.92,
+          516.17,
+          155.57,
+          529.57
+        ]
+      },
+      {
+        "text": "1. Nama",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          170.13,
+          516.17,
+          218.93,
+          529.57
+        ]
+      },
+      {
+        "text": ": SYAFRIZAL",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          269.39,
+          516.17,
+          352.38,
+          529.57
+        ]
+      },
+      {
+        "text": "Jabatan",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          177.19,
+          529.97,
+          234.53,
+          543.37
+        ]
+      },
+      {
+        "text": ": Anggota KPU Kota Dumai",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          269.39,
+          529.97,
+          429.04,
+          543.37
+        ]
+      },
+      {
+        "text": "2. Nama",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          170.11,
+          551.81,
+          218.9,
+          565.21
+        ]
+      },
+      {
+        "text": ": ABDI SOFYANDI",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          269.37,
+          551.81,
+          379.62,
+          565.21
+        ]
+      },
+      {
+        "text": "Jabatan",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          177.19,
+          565.61,
+          234.53,
+          579.01
+        ]
+      },
+      {
+        "text": ": Anggota KPU Kota Dumai",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          269.39,
+          565.61,
+          429.04,
+          579.01
+        ]
+      },
+      {
+        "text": "Untuk",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          70.92,
+          602.33,
+          105.61,
+          615.73
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          141.91,
+          602.33,
+          155.16,
+          615.73
+        ]
+      },
+      {
+        "text": "a. Melaksanakan tugas Dalam Rangka Koordinasi dan Konsultasi Terkait",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          170.2,
+          602.33,
+          558.8,
+          615.73
+        ]
+      },
+      {
+        "text": "Pemutakhiran Data Parpol dan Persiapan Penataan Daerah Pilihan,",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          184.32,
+          616.13,
+          558.87,
+          629.53
+        ]
+      },
+      {
+        "text": "selama 2 (Dua) hari tanggal  20 Mei 2026 s.d 21 Mei 2026.",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          184.32,
+          629.93,
+          497.3,
+          643.33
+        ]
+      },
+      {
+        "text": "b. Setelah melakukan perjalanan yang bersangkutan  agar membuat",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          170.11,
+          647.21,
+          558.86,
+          660.61
+        ]
+      },
+      {
+        "text": "Laporan Perjalanan Dinas.",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          184.32,
+          661.01,
+          326.56,
+          674.41
+        ]
+      },
+      {
+        "text": "Demikianlah untuk dapat dilaksanakan sebagaimana mestinya",
+        "font": "CIDFont+F6",
+        "size": 12.01,
+        "bbox": [
+          214.92,
+          680.57,
+          550.5,
+          693.97
+        ]
+      },
+      {
+        "text": "Dumai, 19 Mei 2026",
+        "font": "CIDFont+F5",
+        "size": 11.05,
+        "bbox": [
+          379.2,
+          712.4,
+          484.92,
+          724.73
+        ]
+      },
+      {
+        "text": "KETUA,",
+        "font": "CIDFont+F5",
+        "size": 11.05,
+        "bbox": [
+          409.68,
+          725.0,
+          451.14,
+          737.33
+        ]
+      },
+      {
+        "text": "${ttd_pengirim}",
+        "font": "CIDFont+F5",
+        "size": 11.05,
+        "bbox": [
+          389.16,
+          775.64,
+          475.09,
+          787.97
+        ]
+      },
+      {
+        "text": "${nama_pengirim}",
+        "font": "CIDFont+F5",
+        "size": 11.05,
+        "bbox": [
+          381.72,
+          826.16,
+          479.25,
+          838.49
+        ]
+      }
+    ]
+  },
+  {
+    "file": "D:\\KANTOR\\DIGITALARSIP\\ESPPD\\APPS-ESPPD\\masterdata\\output\\VISUM_DALAM_KOTA.pdf",
+    "image": "D:\\KANTOR\\DIGITALARSIP\\ESPPD\\APPS-ESPPD\\masterdata\\output\\_inspect\\VISUM_DALAM_KOTA.png",
+    "page_rect": [
+      0.0,
+      0.0,
+      612.0,
+      1008.0
+    ],
+    "fonts": [
+      {
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "count": 160
+      },
+      {
+        "font": "CIDFont+F3",
+        "size": 5.4,
+        "count": 11
+      },
+      {
+        "font": "CIDFont+F2",
+        "size": 7.57,
+        "count": 9
+      },
+      {
+        "font": "CIDFont+F1",
+        "size": 8.17,
+        "count": 2
+      }
+    ],
+    "spans": [
+      {
+        "text": "Nomor : 5/PL.01-ST/1472/2026",
+        "font": "CIDFont+F1",
+        "size": 8.17,
+        "bbox": [
+          330.24,
+          63.87,
+          433.48,
+          73.83
+        ]
+      },
+      {
+        "text": "I.",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          323.04,
+          85.08,
+          326.85,
+          94.31
+        ]
+      },
+      {
+        "text": "Berangkat dari",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.09,
+          85.08,
+          374.94,
+          94.31
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.19,
+          85.08,
+          408.21,
+          94.31
+        ]
+      },
+      {
+        "text": "KPU Kota Dumai",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          412.24,
+          85.08,
+          462.3,
+          94.31
+        ]
+      },
+      {
+        "text": "(Tempat Kedudukan)",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.12,
+          95.4,
+          394.45,
+          104.63
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.23,
+          95.4,
+          408.25,
+          104.63
+        ]
+      },
+      {
+        "text": "Ke",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.12,
+          105.6,
+          337.81,
+          114.83
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.2,
+          106.2,
+          408.22,
+          115.43
+        ]
+      },
+      {
+        "text": "Pada Tanggal",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.12,
+          116.52,
+          370.75,
+          125.75
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.23,
+          116.52,
+          408.25,
+          125.75
+        ]
+      },
+      {
+        "text": "06 Mei 2026",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          441.11,
+          116.52,
+          479.41,
+          125.75
+        ]
+      },
+      {
+        "text": "Kepala",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.12,
+          126.84,
+          350.66,
+          136.07
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.19,
+          126.84,
+          408.21,
+          136.07
+        ]
+      },
+      {
+        "text": "II.",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          40.92,
+          199.08,
+          46.7,
+          208.31
+        ]
+      },
+      {
+        "text": "Tiba di",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          61.81,
+          199.08,
+          82.12,
+          208.31
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          137.89,
+          199.08,
+          139.91,
+          208.31
+        ]
+      },
+      {
+        "text": "Berangkat dari",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.11,
+          199.08,
+          374.96,
+          208.31
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.21,
+          199.08,
+          408.23,
+          208.31
+        ]
+      },
+      {
+        "text": "Pada Tanggal",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          61.8,
+          209.4,
+          102.43,
+          218.63
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          137.91,
+          209.4,
+          139.93,
+          218.63
+        ]
+      },
+      {
+        "text": "06 Mei 2026",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          175.59,
+          209.4,
+          213.84,
+          218.63
+        ]
+      },
+      {
+        "text": "Ke",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.14,
+          209.4,
+          337.91,
+          218.63
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.25,
+          209.4,
+          408.27,
+          218.63
+        ]
+      },
+      {
+        "text": "Kepala",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          61.8,
+          219.72,
+          82.34,
+          228.95
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          137.87,
+          219.72,
+          139.89,
+          228.95
+        ]
+      },
+      {
+        "text": "Pada Tanggal",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.1,
+          219.72,
+          370.76,
+          228.95
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.25,
+          219.72,
+          408.27,
+          228.95
+        ]
+      },
+      {
+        "text": "06 Mei 2026",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          441.12,
+          219.72,
+          479.38,
+          228.95
+        ]
+      },
+      {
+        "text": "Kepala",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.12,
+          230.04,
+          350.66,
+          239.27
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.19,
+          230.04,
+          408.21,
+          239.27
+        ]
+      },
+      {
+        "text": "NIP.",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.12,
+          291.96,
+          342.78,
+          301.19
+        ]
+      },
+      {
+        "text": "III.",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          39.96,
+          302.28,
+          47.65,
+          311.51
+        ]
+      },
+      {
+        "text": "Tiba di",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          61.78,
+          302.28,
+          82.11,
+          311.51
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          137.87,
+          302.28,
+          139.89,
+          311.51
+        ]
+      },
+      {
+        "text": "Kelurahan Bukit Timah",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          143.85,
+          302.28,
+          213.01,
+          311.51
+        ]
+      },
+      {
+        "text": "Berangkat dari",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.15,
+          302.28,
+          374.97,
+          311.51
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.22,
+          302.28,
+          408.24,
+          311.51
+        ]
+      },
+      {
+        "text": "Kelurahan Bukit Timah",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          412.27,
+          302.28,
+          481.4,
+          311.51
+        ]
+      },
+      {
+        "text": "Pada Tanggal",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          61.8,
+          312.6,
+          102.43,
+          321.83
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          137.91,
+          312.6,
+          139.93,
+          321.83
+        ]
+      },
+      {
+        "text": "06 Mei 2026",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          143.89,
+          312.6,
+          182.14,
+          321.83
+        ]
+      },
+      {
+        "text": "Ke",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.14,
+          312.6,
+          337.91,
+          321.83
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.25,
+          312.6,
+          408.27,
+          321.83
+        ]
+      },
+      {
+        "text": "Kepala",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          61.8,
+          322.92,
+          82.34,
+          332.15
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          137.87,
+          322.92,
+          139.89,
+          332.15
+        ]
+      },
+      {
+        "text": "Pada Tanggal",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.1,
+          322.92,
+          370.76,
+          332.15
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.25,
+          322.92,
+          408.27,
+          332.15
+        ]
+      },
+      {
+        "text": "06 Mei 2026",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          412.23,
+          322.92,
+          450.48,
+          332.15
+        ]
+      },
+      {
+        "text": "Kepala",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.12,
+          333.24,
+          350.66,
+          342.47
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.19,
+          333.24,
+          408.21,
+          342.47
+        ]
+      },
+      {
+        "text": "IV.",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          39.72,
+          405.48,
+          47.82,
+          414.71
+        ]
+      },
+      {
+        "text": "Tiba di",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          61.8,
+          405.48,
+          82.12,
+          414.71
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          137.88,
+          405.48,
+          139.9,
+          414.71
+        ]
+      },
+      {
+        "text": "Kelurahan Bukit Datuk",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          143.85,
+          405.48,
+          212.24,
+          414.71
+        ]
+      },
+      {
+        "text": "Berangkat dari",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.15,
+          405.48,
+          374.97,
+          414.71
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.22,
+          405.48,
+          408.24,
+          414.71
+        ]
+      },
+      {
+        "text": "Kelurahan Bukit Datuk",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          412.27,
+          405.48,
+          480.58,
+          414.71
+        ]
+      },
+      {
+        "text": "Pada Tanggal",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          61.8,
+          415.8,
+          102.43,
+          425.03
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          137.91,
+          415.8,
+          139.93,
+          425.03
+        ]
+      },
+      {
+        "text": "06 Mei 2026",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          143.89,
+          415.8,
+          182.14,
+          425.03
+        ]
+      },
+      {
+        "text": "Ke",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.14,
+          415.8,
+          337.91,
+          425.03
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.25,
+          415.8,
+          408.27,
+          425.03
+        ]
+      },
+      {
+        "text": "Kepala",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          61.8,
+          426.12,
+          82.34,
+          435.35
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          137.87,
+          426.12,
+          139.89,
+          435.35
+        ]
+      },
+      {
+        "text": "Pada Tanggal",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.1,
+          426.12,
+          370.76,
+          435.35
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.25,
+          426.12,
+          408.27,
+          435.35
+        ]
+      },
+      {
+        "text": "06 Mei 2026",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          412.23,
+          426.12,
+          450.48,
+          435.35
+        ]
+      },
+      {
+        "text": "Kepala",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.12,
+          436.44,
+          350.66,
+          445.67
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.19,
+          436.44,
+          408.21,
+          445.67
+        ]
+      },
+      {
+        "text": "V.",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          40.68,
+          508.68,
+          46.88,
+          517.91
+        ]
+      },
+      {
+        "text": "Tiba di",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          61.77,
+          508.68,
+          82.1,
+          517.91
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          137.86,
+          508.68,
+          139.88,
+          517.91
+        ]
+      },
+      {
+        "text": "Kelurahan Bumi Ayu",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          143.92,
+          508.68,
+          205.84,
+          517.91
+        ]
+      },
+      {
+        "text": "Berangkat dari",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.17,
+          508.68,
+          374.98,
+          517.91
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.23,
+          508.68,
+          408.25,
+          517.91
+        ]
+      },
+      {
+        "text": "Kelurahan Bumi Ayu",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          412.2,
+          508.68,
+          474.16,
+          517.91
+        ]
+      },
+      {
+        "text": "Pada Tanggal",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          61.8,
+          519.0,
+          102.43,
+          528.23
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          137.91,
+          519.0,
+          139.93,
+          528.23
+        ]
+      },
+      {
+        "text": "06 Mei 2026",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          175.59,
+          519.0,
+          213.84,
+          528.23
+        ]
+      },
+      {
+        "text": "Ke",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.14,
+          519.0,
+          337.91,
+          528.23
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.25,
+          519.0,
+          408.27,
+          528.23
+        ]
+      },
+      {
+        "text": "KPU Kota Dumai",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          412.22,
+          519.0,
+          462.33,
+          528.23
+        ]
+      },
+      {
+        "text": "Kepala",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          61.8,
+          529.32,
+          82.34,
+          538.55
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          137.87,
+          529.32,
+          139.89,
+          538.55
+        ]
+      },
+      {
+        "text": "Pada Tanggal",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.1,
+          529.32,
+          370.76,
+          538.55
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.25,
+          529.32,
+          408.27,
+          538.55
+        ]
+      },
+      {
+        "text": "06 Mei 2026",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          441.12,
+          529.32,
+          479.38,
+          538.55
+        ]
+      },
+      {
+        "text": "Kepala",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.12,
+          539.64,
+          350.66,
+          548.87
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.19,
+          539.64,
+          408.21,
+          548.87
+        ]
+      },
+      {
+        "text": "VI.",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          39.72,
+          611.88,
+          47.89,
+          621.11
+        ]
+      },
+      {
+        "text": "Tiba di",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          61.79,
+          611.88,
+          82.14,
+          621.11
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          137.9,
+          611.88,
+          139.92,
+          621.11
+        ]
+      },
+      {
+        "text": "Kelurahan Sukajadi",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          143.88,
+          611.88,
+          202.26,
+          621.11
+        ]
+      },
+      {
+        "text": "Berangkat dari",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.12,
+          611.88,
+          374.94,
+          621.11
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.19,
+          611.88,
+          408.21,
+          621.11
+        ]
+      },
+      {
+        "text": "Kelurahan Sukajadi",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          412.2,
+          611.88,
+          470.58,
+          621.11
+        ]
+      },
+      {
+        "text": "Pada Tanggal",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          61.8,
+          622.2,
+          102.43,
+          631.43
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          137.91,
+          622.2,
+          139.93,
+          631.43
+        ]
+      },
+      {
+        "text": "06 Mei 2026",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          175.56,
+          622.2,
+          213.81,
+          631.43
+        ]
+      },
+      {
+        "text": "Ke",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.12,
+          622.2,
+          337.81,
+          631.43
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.22,
+          622.2,
+          408.24,
+          631.43
+        ]
+      },
+      {
+        "text": "KPU Kota Dumai",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          412.2,
+          622.2,
+          462.29,
+          631.43
+        ]
+      },
+      {
+        "text": "Kepala",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          61.8,
+          632.52,
+          82.34,
+          641.75
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          137.87,
+          632.52,
+          139.89,
+          641.75
+        ]
+      },
+      {
+        "text": "Pada Tanggal",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.1,
+          632.52,
+          370.76,
+          641.75
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.25,
+          632.52,
+          408.27,
+          641.75
+        ]
+      },
+      {
+        "text": "06 Mei 2026",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          441.12,
+          632.52,
+          479.37,
+          641.75
+        ]
+      },
+      {
+        "text": "Kepala",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.12,
+          642.84,
+          350.66,
+          652.07
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.19,
+          642.84,
+          408.21,
+          652.07
+        ]
+      },
+      {
+        "text": "VI.",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          39.72,
+          715.08,
+          47.89,
+          724.31
+        ]
+      },
+      {
+        "text": "Tiba di",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          61.79,
+          715.08,
+          82.14,
+          724.31
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          137.9,
+          715.08,
+          139.92,
+          724.31
+        ]
+      },
+      {
+        "text": "KPU Kota Dumai",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          143.88,
+          715.08,
+          193.99,
+          724.31
+        ]
+      },
+      {
+        "text": "(Tempat Kedudukan)",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          61.8,
+          725.4,
+          126.13,
+          734.63
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          137.91,
+          725.4,
+          139.93,
+          734.63
+        ]
+      },
+      {
+        "text": "06 Mei 2026",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          175.58,
+          725.4,
+          213.83,
+          734.63
+        ]
+      },
+      {
+        "text": "Pada Tanggal",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          61.8,
+          735.72,
+          102.43,
+          744.95
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          137.91,
+          735.72,
+          139.93,
+          744.95
+        ]
+      },
+      {
+        "text": "VII.",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          38.76,
+          849.24,
+          48.83,
+          858.47
+        ]
+      }
+    ]
+  },
+  {
+    "file": "D:\\KANTOR\\DIGITALARSIP\\ESPPD\\APPS-ESPPD\\masterdata\\output\\VISUM_LUAR_KOTA.pdf",
+    "image": "D:\\KANTOR\\DIGITALARSIP\\ESPPD\\APPS-ESPPD\\masterdata\\output\\_inspect\\VISUM_LUAR_KOTA.png",
+    "page_rect": [
+      0.0,
+      0.0,
+      612.0,
+      1008.0
+    ],
+    "fonts": [
+      {
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "count": 124
+      },
+      {
+        "font": "CIDFont+F2",
+        "size": 5.4,
+        "count": 11
+      },
+      {
+        "font": "CIDFont+F3",
+        "size": 7.57,
+        "count": 9
+      },
+      {
+        "font": "CIDFont+F1",
+        "size": 8.17,
+        "count": 3
+      }
+    ],
+    "spans": [
+      {
+        "text": "Nomor : 09/RT.02.1-ST/1472/1/2026",
+        "font": "CIDFont+F1",
+        "size": 8.17,
+        "bbox": [
+          330.24,
+          63.87,
+          451.66,
+          73.83
+        ]
+      },
+      {
+        "text": "I.",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          323.04,
+          85.08,
+          326.85,
+          94.31
+        ]
+      },
+      {
+        "text": "Berangkat dari",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.09,
+          85.08,
+          374.94,
+          94.31
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.19,
+          85.08,
+          408.21,
+          94.31
+        ]
+      },
+      {
+        "text": "Dumai",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          412.24,
+          85.08,
+          432.16,
+          94.31
+        ]
+      },
+      {
+        "text": "(Tempat Kedudukan)",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.12,
+          95.4,
+          394.45,
+          104.63
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.23,
+          95.4,
+          408.25,
+          104.63
+        ]
+      },
+      {
+        "text": "Ke",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.12,
+          105.6,
+          337.81,
+          114.83
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.2,
+          106.2,
+          408.22,
+          115.43
+        ]
+      },
+      {
+        "text": "Pada Tanggal",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.12,
+          116.52,
+          370.75,
+          125.75
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.23,
+          116.52,
+          408.25,
+          125.75
+        ]
+      },
+      {
+        "text": "20 Mei 2026",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          412.21,
+          116.52,
+          450.46,
+          125.75
+        ]
+      },
+      {
+        "text": "Kepala",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.12,
+          126.84,
+          350.66,
+          136.07
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.19,
+          126.84,
+          408.21,
+          136.07
+        ]
+      },
+      {
+        "text": "II.",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          40.92,
+          219.72,
+          46.7,
+          228.95
+        ]
+      },
+      {
+        "text": "Tiba di",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          61.81,
+          219.72,
+          82.12,
+          228.95
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          137.89,
+          219.72,
+          139.91,
+          228.95
+        ]
+      },
+      {
+        "text": "Berangkat dari",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.11,
+          219.72,
+          374.96,
+          228.95
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.21,
+          219.72,
+          408.23,
+          228.95
+        ]
+      },
+      {
+        "text": "Pada Tanggal",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          61.8,
+          230.04,
+          102.43,
+          239.27
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          137.91,
+          230.04,
+          139.93,
+          239.27
+        ]
+      },
+      {
+        "text": "20 Mei 2026",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          143.89,
+          230.04,
+          182.14,
+          239.27
+        ]
+      },
+      {
+        "text": "Ke",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.14,
+          230.04,
+          337.91,
+          239.27
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.25,
+          230.04,
+          408.27,
+          239.27
+        ]
+      },
+      {
+        "text": "Dumai",
+        "font": "CIDFont+F1",
+        "size": 8.17,
+        "bbox": [
+          412.32,
+          229.47,
+          433.99,
+          239.43
+        ]
+      },
+      {
+        "text": "Kepala",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          61.8,
+          240.36,
+          82.34,
+          249.59
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          137.87,
+          240.36,
+          139.89,
+          249.59
+        ]
+      },
+      {
+        "text": "Pada Tanggal",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.1,
+          240.36,
+          370.76,
+          249.59
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.25,
+          240.36,
+          408.27,
+          249.59
+        ]
+      },
+      {
+        "text": "21 Mei 2026",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          412.23,
+          240.36,
+          450.48,
+          249.59
+        ]
+      },
+      {
+        "text": "Kepala",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.12,
+          250.68,
+          350.66,
+          259.91
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.19,
+          250.68,
+          408.21,
+          259.91
+        ]
+      },
+      {
+        "text": "NIP.",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.12,
+          312.6,
+          342.78,
+          321.83
+        ]
+      },
+      {
+        "text": "III.",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          39.96,
+          322.92,
+          47.65,
+          332.15
+        ]
+      },
+      {
+        "text": "Tiba di",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          61.78,
+          322.92,
+          82.11,
+          332.15
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          137.87,
+          322.92,
+          139.89,
+          332.15
+        ]
+      },
+      {
+        "text": "Berangkat dari",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.1,
+          322.92,
+          374.95,
+          332.15
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.2,
+          322.92,
+          408.22,
+          332.15
+        ]
+      },
+      {
+        "text": "Pada Tanggal",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          61.8,
+          333.24,
+          102.43,
+          342.47
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          137.91,
+          333.24,
+          139.93,
+          342.47
+        ]
+      },
+      {
+        "text": "Ke",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.14,
+          333.24,
+          337.83,
+          342.47
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.24,
+          333.24,
+          408.26,
+          342.47
+        ]
+      },
+      {
+        "text": "Kepala",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          61.8,
+          343.56,
+          82.34,
+          352.79
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          137.87,
+          343.56,
+          139.89,
+          352.79
+        ]
+      },
+      {
+        "text": "Pada Tanggal",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.1,
+          343.56,
+          370.76,
+          352.79
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.25,
+          343.56,
+          408.27,
+          352.79
+        ]
+      },
+      {
+        "text": "Kepala",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.12,
+          353.88,
+          350.66,
+          363.11
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.19,
+          353.88,
+          408.21,
+          363.11
+        ]
+      },
+      {
+        "text": "IV.",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          39.72,
+          426.12,
+          47.82,
+          435.35
+        ]
+      },
+      {
+        "text": "Tiba di",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          61.8,
+          426.12,
+          82.12,
+          435.35
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          137.88,
+          426.12,
+          139.9,
+          435.35
+        ]
+      },
+      {
+        "text": "Berangkat dari",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.1,
+          426.12,
+          374.95,
+          435.35
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.2,
+          426.12,
+          408.22,
+          435.35
+        ]
+      },
+      {
+        "text": "Pada Tanggal",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          61.8,
+          436.44,
+          102.43,
+          445.67
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          137.91,
+          436.44,
+          139.93,
+          445.67
+        ]
+      },
+      {
+        "text": "Ke",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.14,
+          436.44,
+          337.83,
+          445.67
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.24,
+          436.44,
+          408.26,
+          445.67
+        ]
+      },
+      {
+        "text": "Kepala",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          61.8,
+          446.76,
+          82.34,
+          455.99
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          137.87,
+          446.76,
+          139.89,
+          455.99
+        ]
+      },
+      {
+        "text": "Pada Tanggal",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.1,
+          446.76,
+          370.76,
+          455.99
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.25,
+          446.76,
+          408.27,
+          455.99
+        ]
+      },
+      {
+        "text": "Kepala",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.12,
+          457.08,
+          350.66,
+          466.31
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.19,
+          457.08,
+          408.21,
+          466.31
+        ]
+      },
+      {
+        "text": "V.",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          40.68,
+          529.32,
+          46.88,
+          538.55
+        ]
+      },
+      {
+        "text": "Tiba di",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          61.77,
+          529.32,
+          82.1,
+          538.55
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          137.86,
+          529.32,
+          139.88,
+          538.55
+        ]
+      },
+      {
+        "text": "Berangkat dari",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.09,
+          529.32,
+          374.97,
+          538.55
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.22,
+          529.32,
+          408.24,
+          538.55
+        ]
+      },
+      {
+        "text": "Pada Tanggal",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          61.8,
+          539.64,
+          102.43,
+          548.87
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          137.91,
+          539.64,
+          139.93,
+          548.87
+        ]
+      },
+      {
+        "text": "Ke",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.14,
+          539.64,
+          337.83,
+          548.87
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.24,
+          539.64,
+          408.26,
+          548.87
+        ]
+      },
+      {
+        "text": "Kepala",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          61.8,
+          549.96,
+          82.34,
+          559.19
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          137.87,
+          549.96,
+          139.89,
+          559.19
+        ]
+      },
+      {
+        "text": "Pada Tanggal",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.1,
+          549.96,
+          370.76,
+          559.19
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.25,
+          549.96,
+          408.27,
+          559.19
+        ]
+      },
+      {
+        "text": "Kepala",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.12,
+          560.28,
+          350.66,
+          569.51
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          406.19,
+          560.28,
+          408.21,
+          569.51
+        ]
+      },
+      {
+        "text": "VI.",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          39.72,
+          632.52,
+          47.89,
+          641.75
+        ]
+      },
+      {
+        "text": "Tiba di",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          61.79,
+          632.52,
+          82.14,
+          641.75
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          137.9,
+          632.52,
+          139.92,
+          641.75
+        ]
+      },
+      {
+        "text": "Dumai",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          143.88,
+          632.52,
+          163.83,
+          641.75
+        ]
+      },
+      {
+        "text": "(Tempat Kedudukan)",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          61.8,
+          642.84,
+          126.13,
+          652.07
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          137.91,
+          642.84,
+          139.93,
+          652.07
+        ]
+      },
+      {
+        "text": "Pada Tanggal",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          61.8,
+          653.16,
+          102.43,
+          662.39
+        ]
+      },
+      {
+        "text": ":",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          137.91,
+          653.16,
+          139.93,
+          662.39
+        ]
+      },
+      {
+        "text": "21 Mei 2026",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          143.89,
+          653.16,
+          182.14,
+          662.39
+        ]
+      },
+      {
+        "text": "VII.",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          38.76,
+          766.68,
+          48.83,
+          775.91
+        ]
+      },
+      {
+        "text": "Catatan Lain-lain",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          61.83,
+          766.68,
+          112.91,
+          775.91
+        ]
+      },
+      {
+        "text": "VIII.",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          37.8,
+          777.0,
+          49.78,
+          786.23
+        ]
+      },
+      {
+        "text": "PERHATIAN :",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          61.79,
+          777.0,
+          101.13,
+          786.23
+        ]
+      },
+      {
+        "text": "PPK",
+        "font": "CIDFont+F2",
+        "size": 5.4,
+        "bbox": [
+          61.56,
+          786.98,
+          70.26,
+          793.57
+        ]
+      },
+      {
+        "text": "yang menerbitkan SPPD,",
+        "font": "CIDFont+F2",
+        "size": 5.4,
+        "bbox": [
+          71.9,
+          786.98,
+          128.11,
+          793.57
+        ]
+      },
+      {
+        "text": "pegawai yang melakukann",
+        "font": "CIDFont+F2",
+        "size": 5.4,
+        "bbox": [
+          129.74,
+          786.98,
+          191.49,
+          793.57
+        ]
+      },
+      {
+        "text": "perjalanan dinas,",
+        "font": "CIDFont+F2",
+        "size": 5.4,
+        "bbox": [
+          193.13,
+          786.98,
+          232.67,
+          793.57
+        ]
+      },
+      {
+        "text": "para pejabat",
+        "font": "CIDFont+F2",
+        "size": 5.4,
+        "bbox": [
+          234.31,
+          786.98,
+          263.76,
+          793.57
+        ]
+      },
+      {
+        "text": "yang mengesahkan",
+        "font": "CIDFont+F2",
+        "size": 5.4,
+        "bbox": [
+          265.41,
+          786.98,
+          309.73,
+          793.57
+        ]
+      },
+      {
+        "text": "tanggal berangkat/tiba,",
+        "font": "CIDFont+F2",
+        "size": 5.4,
+        "bbox": [
+          311.36,
+          786.98,
+          366.87,
+          793.57
+        ]
+      },
+      {
+        "text": "serta",
+        "font": "CIDFont+F2",
+        "size": 5.4,
+        "bbox": [
+          368.51,
+          786.98,
+          379.95,
+          793.57
+        ]
+      },
+      {
+        "text": "bendahara pengeluaran bertanggung jawab berdasarkan peraturan",
+        "font": "CIDFont+F2",
+        "size": 5.4,
+        "bbox": [
+          381.58,
+          786.98,
+          537.56,
+          793.57
+        ]
+      },
+      {
+        "text": "Keuangan Negara",
+        "font": "CIDFont+F2",
+        "size": 5.4,
+        "bbox": [
+          539.2,
+          786.98,
+          580.34,
+          793.57
+        ]
+      },
+      {
+        "text": "apabila menderita rugi akibat kesalahan, kelalaian, dan kealpaannya.",
+        "font": "CIDFont+F2",
+        "size": 5.4,
+        "bbox": [
+          61.56,
+          796.46,
+          220.17,
+          803.05
+        ]
+      },
+      {
+        "text": "FANNY CHRISTAL",
+        "font": "CIDFont+F3",
+        "size": 7.57,
+        "bbox": [
+          163.92,
+          746.04,
+          217.77,
+          755.27
+        ]
+      },
+      {
+        "text": "FANNY CHRISTAL",
+        "font": "CIDFont+F3",
+        "size": 7.57,
+        "bbox": [
+          428.88,
+          746.04,
+          482.73,
+          755.27
+        ]
+      },
+      {
+        "text": "NIP. 197802182007011003",
+        "font": "CIDFont+F3",
+        "size": 7.57,
+        "bbox": [
+          148.8,
+          756.36,
+          232.76,
+          765.59
+        ]
+      },
+      {
+        "text": "NIP. 197802182007011003",
+        "font": "CIDFont+F3",
+        "size": 7.57,
+        "bbox": [
+          413.9,
+          756.36,
+          497.9,
+          765.59
+        ]
+      },
+      {
+        "text": "NIP.",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          61.8,
+          622.2,
+          74.46,
+          631.43
+        ]
+      },
+      {
+        "text": "NIP.",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.15,
+          622.2,
+          342.81,
+          631.43
+        ]
+      },
+      {
+        "text": "Telah",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.12,
+          632.16,
+          346.83,
+          641.39
+        ]
+      },
+      {
+        "text": "diperiksa",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          349.36,
+          632.16,
+          377.09,
+          641.39
+        ]
+      },
+      {
+        "text": "dengan",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          379.6,
+          632.16,
+          402.37,
+          641.39
+        ]
+      },
+      {
+        "text": "keterangan",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          404.9,
+          632.16,
+          439.68,
+          641.39
+        ]
+      },
+      {
+        "text": "bahwa",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          442.22,
+          632.16,
+          462.78,
+          641.39
+        ]
+      },
+      {
+        "text": "perjalanan",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          465.28,
+          632.16,
+          497.81,
+          641.39
+        ]
+      },
+      {
+        "text": "tersebut",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          500.2,
+          632.16,
+          526.24,
+          641.39
+        ]
+      },
+      {
+        "text": "atas",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          528.79,
+          632.16,
+          541.43,
+          641.39
+        ]
+      },
+      {
+        "text": "perintahnya",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          543.92,
+          632.16,
+          580.96,
+          641.39
+        ]
+      },
+      {
+        "text": "dan",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          330.12,
+          647.4,
+          341.65,
+          656.63
+        ]
+      },
+      {
+        "text": "semata-mata",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          346.23,
+          647.4,
+          386.71,
+          656.63
+        ]
+      },
+      {
+        "text": "untuk",
+        "font": "CIDFont+F1",
+        "size": 7.57,
+        "bbox": [
+          391.18,
+          647.4,
+          409.03,
+          656.63
+        ]
+      }
+    ]
+  }
+]
