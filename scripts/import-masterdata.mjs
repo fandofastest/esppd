@@ -55,10 +55,10 @@ function parseJenisPegawai(identifierRaw) {
   }
 
   if (identifier.includes("NIP")) {
-    return "ASN";
+    return "PNS";
   }
 
-  return "PPNPN";
+  return "Komisioner";
 }
 
 function parsePegawai() {
@@ -79,17 +79,18 @@ function parsePegawai() {
     const jabatan = normalizeText(row[3]);
     const identifierRaw = normalizeText(detailRow[1]);
     const nipNik = extractDigits(identifierRaw);
+    const jenis_pegawai = parseJenisPegawai(identifierRaw);
 
-    if (!nama || !nipNik) {
+    if (!nama || (jenis_pegawai !== "Komisioner" && !nipNik)) {
       continue;
     }
 
     pegawai.push({
       nama,
-      nip_nik: nipNik,
-      pangkat_golongan: normalizeText(`${pangkatUtama} ${pangkatLanjutan}`),
+      nip_nik: jenis_pegawai === "Komisioner" ? undefined : nipNik,
+      pangkat_golongan: jenis_pegawai === "Komisioner" ? "IV" : normalizeText(`${pangkatUtama} ${pangkatLanjutan}`),
       jabatan,
-      jenis_pegawai: parseJenisPegawai(identifierRaw),
+      jenis_pegawai,
     });
 
     index += 1;
@@ -195,7 +196,7 @@ async function run() {
   await mongoose.connect(mongoUri, { dbName });
 
   await replaceCollection("pegawai", datasets.pegawai, [
-    { key: { nip_nik: 1 }, options: { unique: true } },
+    { key: { nip_nik: 1 }, options: { unique: true, sparse: true } },
   ]);
   await replaceCollection("sbm_uang_harian", datasets.sbm_uang_harian, [
     { key: { provinsi: 1 }, options: { unique: true } },

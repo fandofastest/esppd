@@ -159,9 +159,9 @@ export const JENIS_PERJALANAN_OPTIONS: Array<{ value: JenisPerjalanan; label: st
 ];
 
 export const JENIS_PEGAWAI_OPTIONS: Array<{ value: JenisPegawai; label: string }> = [
-  { value: "ASN", label: "ASN" },
+  { value: "PNS", label: "PNS" },
   { value: "PPPK", label: "PPPK" },
-  { value: "PPNPN", label: "PPNPN" },
+  { value: "Komisioner", label: "Komisioner" },
 ];
 
 export const STATUS_HOTEL_OPTIONS: Array<{ value: StatusHotel; label: string }> = [
@@ -594,12 +594,15 @@ export async function getLaporanData(
         record.sppd.lokasi_tujuan_kota_nama,
         record.sppd.lokasi_tujuan_kecamatan_nama ?? "",
         ...(record.sppd.lokasi_tujuan_kecamatan_nama_list ?? []),
-        ...record.pelaksana.flatMap((pegawai) => [
-          pegawai.nama,
-          pegawai.nip_nik,
-          pegawai.jabatan,
-          pegawai.jenis_pegawai,
-        ]),
+        ...record.pelaksana.flatMap((pegawai) => {
+          const jp = pegawai.jenis_pegawai === "ASN" ? "PNS" : (pegawai.jenis_pegawai === "PPNPN" ? "Komisioner" : pegawai.jenis_pegawai);
+          return [
+            pegawai.nama,
+            pegawai.nip_nik ?? "",
+            pegawai.jabatan,
+            jp,
+          ];
+        }),
       ]
         .join(" ")
         .trim();
@@ -613,7 +616,10 @@ export async function getLaporanData(
         new Date(record.sppd.tanggal_st).getFullYear() === Number(filters.tahun);
       const matchJenisPegawai =
         !filters.jenisPegawai ||
-        record.pelaksana.some((pegawai) => pegawai.jenis_pegawai === filters.jenisPegawai);
+        record.pelaksana.some((pegawai) => {
+          const jp = pegawai.jenis_pegawai === "ASN" ? "PNS" : (pegawai.jenis_pegawai === "PPNPN" ? "Komisioner" : pegawai.jenis_pegawai);
+          return jp === filters.jenisPegawai;
+        });
       const matchJabatan =
         !filters.jabatan || record.pelaksana.some((pegawai) => pegawai.jabatan === filters.jabatan);
       const matchStatusHotel =
@@ -748,7 +754,10 @@ export async function getLaporanData(
     count: new Set(
       filteredRecords.flatMap((record) =>
         record.pelaksana
-          .filter((pegawai) => pegawai.jenis_pegawai === item.value)
+          .filter((pegawai) => {
+            const jp = pegawai.jenis_pegawai === "ASN" ? "PNS" : (pegawai.jenis_pegawai === "PPNPN" ? "Komisioner" : pegawai.jenis_pegawai);
+            return jp === item.value;
+          })
           .map((pegawai) => String(pegawai._id)),
       ),
     ).size,

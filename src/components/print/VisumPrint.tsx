@@ -2,7 +2,7 @@ import React from "react";
 
 interface PelaksanaPegawai {
   nama: string;
-  nip_nik: string;
+  nip_nik?: string;
   pangkat_golongan: string;
   jabatan: string;
 }

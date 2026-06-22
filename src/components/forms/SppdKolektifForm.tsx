@@ -13,7 +13,7 @@ import { SearchableSelect } from "@/components/ui/SearchableSelect";
 interface PegawaiOption {
   _id: string;
   nama: string;
-  nip_nik: string;
+  nip_nik?: string;
   jabatan: string;
   pangkat_golongan: string;
 }

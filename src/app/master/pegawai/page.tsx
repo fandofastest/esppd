@@ -1,5 +1,6 @@
-import { createPegawaiAction, deletePegawaiAction } from "@/actions/master.actions";
+import { deletePegawaiAction } from "@/actions/master.actions";
 import { FormActionButton } from "@/components/forms/FormActionButton";
+import { TambahPegawaiForm } from "@/components/forms/TambahPegawaiForm";
 import { AppShell } from "@/components/layout/AppShell";
 import { requireRole } from "@/lib/auth/session";
 import { connectMongoDB } from "@/lib/db/mongoose";
@@ -23,37 +24,7 @@ export default async function MasterPegawaiPage() {
             Data ini dipakai untuk penyusunan tim pelaksana dan perhitungan SBM.
           </p>
 
-          <form action={createPegawaiAction} className="mt-6 space-y-4">
-            <div>
-              <label className="label">Nama</label>
-              <input className="input" name="nama" required />
-            </div>
-            <div>
-              <label className="label">NIP / NIK</label>
-              <input className="input" name="nip_nik" required />
-            </div>
-            <div>
-              <label className="label">Pangkat / Golongan</label>
-              <input className="input" name="pangkat_golongan" required />
-            </div>
-            <div>
-              <label className="label">Jabatan</label>
-              <input className="input" name="jabatan" required />
-            </div>
-            <div>
-              <label className="label">Jenis Pegawai</label>
-              <select className="input" name="jenis_pegawai" defaultValue="ASN">
-                <option value="ASN">ASN</option>
-                <option value="PPPK">PPPK</option>
-                <option value="PPNPN">PPNPN</option>
-              </select>
-            </div>
-            <FormActionButton
-              className="btn-primary w-full"
-              label="Simpan Pegawai"
-              pendingLabel="Menyimpan..."
-            />
-          </form>
+          <TambahPegawaiForm />
         </section>
 
         <section className="card overflow-hidden">
@@ -80,10 +51,16 @@ export default async function MasterPegawaiPage() {
                 {pegawai.map((item) => (
                   <tr key={String(item._id)} className="border-t border-slate-100">
                     <td className="px-6 py-4 font-medium text-slate-900">{item.nama}</td>
-                    <td className="px-6 py-4 text-slate-600">{item.nip_nik}</td>
+                    <td className="px-6 py-4 text-slate-600">{item.nip_nik || "-"}</td>
                     <td className="px-6 py-4 text-slate-600">{item.jabatan}</td>
                     <td className="px-6 py-4 text-slate-600">{item.pangkat_golongan}</td>
-                    <td className="px-6 py-4 text-slate-600">{item.jenis_pegawai}</td>
+                    <td className="px-6 py-4 text-slate-600">
+                      {item.jenis_pegawai === "ASN"
+                        ? "PNS"
+                        : item.jenis_pegawai === "PPNPN"
+                          ? "Komisioner"
+                          : item.jenis_pegawai}
+                    </td>
                     <td className="px-6 py-4">
                       <form action={deletePegawaiAction}>
                         <input type="hidden" name="id" value={String(item._id)} />

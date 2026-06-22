@@ -46,12 +46,17 @@ export async function createPegawaiAction(formData: FormData) {
   await requireRole(["Admin"]);
   await connectMongoDB();
 
+  const nip_nik_raw = String(formData.get("nip_nik") ?? "").trim();
+  const jenis_pegawai = String(formData.get("jenis_pegawai") ?? "PNS");
+  const nip_nik = (jenis_pegawai === "Komisioner" || nip_nik_raw === "-" || !nip_nik_raw) ? undefined : nip_nik_raw;
+  const pangkat_golongan = jenis_pegawai === "Komisioner" ? "IV" : String(formData.get("pangkat_golongan") ?? "").trim();
+
   await PegawaiModel.create({
     nama: String(formData.get("nama") ?? "").trim(),
-    nip_nik: String(formData.get("nip_nik") ?? "").trim(),
-    pangkat_golongan: String(formData.get("pangkat_golongan") ?? "").trim(),
+    nip_nik,
+    pangkat_golongan,
     jabatan: String(formData.get("jabatan") ?? "").trim(),
-    jenis_pegawai: String(formData.get("jenis_pegawai") ?? "ASN"),
+    jenis_pegawai,
   });
 
   revalidatePath("/master/pegawai");

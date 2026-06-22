@@ -1,11 +1,11 @@
 import { Model, Schema, Types, model, models } from "mongoose";
 
-export type JenisPegawai = "ASN" | "PPPK" | "PPNPN";
+export type JenisPegawai = "PNS" | "PPPK" | "Komisioner" | "ASN" | "PPNPN";
 
 export interface IPegawai {
   _id?: Types.ObjectId;
   nama: string;
-  nip_nik: string;
+  nip_nik?: string;
   pangkat_golongan: string;
   jabatan: string;
   jenis_pegawai: JenisPegawai;
@@ -22,10 +22,10 @@ const PegawaiSchema = new Schema<IPegawai>(
     },
     nip_nik: {
       type: String,
-      required: true,
+      required: false,
       unique: true,
+      sparse: true,
       trim: true,
-      index: true,
     },
     pangkat_golongan: {
       type: String,
@@ -39,7 +39,7 @@ const PegawaiSchema = new Schema<IPegawai>(
     },
     jenis_pegawai: {
       type: String,
-      enum: ["ASN", "PPPK", "PPNPN"],
+      enum: ["PNS", "PPPK", "Komisioner", "ASN", "PPNPN"],
       required: true,
     },
   },
